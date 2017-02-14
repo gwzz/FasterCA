@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+require 'msfca/cli'
+Msfca::CLI.start
